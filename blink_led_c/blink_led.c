@@ -26,5 +26,5 @@ int main (void) {
         _delay_ms(MS_DELAY);
     }
 
-	return 0;
+    return 0;
 }
